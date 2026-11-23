@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-recipient,Recipient,true
+contributor,Recipient,true
 date,Date Created,
 language,Language
 description,Description,
