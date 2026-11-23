@@ -1,17 +1,17 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+subject,Recipient,true
 date,Date Created,
+language,Language
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
+source_url,Source Link,true
 identifier,Source Identifier,,
-type,Type,
-format,Format,
+extent,Extent
 rights,Rights,
 rightsstatement,Rights Statement,,true
-recipient, Recipient,true
 transcription_url,Transcription,,true
+date_note,Date Note
